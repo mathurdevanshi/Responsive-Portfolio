@@ -71,7 +71,7 @@ h2,h3{
 
 nav{
     float: right;
-    margin-top: 25px;
+    margin-top: 25    px;
 }
 
 nav a{
@@ -261,12 +261,14 @@ input [type=submit]{
    }
    .main-section{
        max-width: 500px;
-       margin-top:0px;
    }
    .work{
        margin-left: 80px;
    }
     footer{
        background-color: pink;
+   }
+   .auth-image{
+       width:450px;
    }
   }
