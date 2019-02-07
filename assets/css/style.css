@@ -235,9 +235,9 @@ input [type=submit]{
     .sidebar{
         display: none;
     }
-    footer{
+    /* footer{
         background-color: orange;
-    }
+    } */
   }
 
   @media only screen and (max-width: 768px) {
@@ -249,8 +249,8 @@ input [type=submit]{
         width:600px;
     }
     footer{
-        background-color: green;
-        width:700px;
+        /* background-color: green; */
+        width:760px;
     }
   }
 
@@ -267,9 +267,9 @@ input [type=submit]{
    .work{
        margin-left: 80px;
    }
-    footer{
+    /* footer{
        background-color: pink;
-   }
+   } */
    .auth-image{
        width:450px;
    }
