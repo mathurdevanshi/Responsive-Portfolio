@@ -46,7 +46,7 @@ h2,h3{
 
 #masthead{
     background:#fff;
-    margin: 0 0 30px;
+    margin: 0 0 0px;
     z-index: 99;
     color: #fff;
     overflow: auto;
@@ -71,7 +71,7 @@ h2,h3{
 
 nav{
     float: right;
-    margin-top: 25    px;
+    margin-top: 25px;
 }
 
 nav a{
@@ -242,13 +242,15 @@ input [type=submit]{
 
   @media only screen and (max-width: 768px) {
     .container{
-        max-width: 700px;
+        max-width: 500px;
     }
     .main-section{
         margin-left:50px;
+        width:600px;
     }
     footer{
         background-color: green;
+        width:700px;
     }
   }
 
